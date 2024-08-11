@@ -9,7 +9,7 @@ import { CiMail } from "react-icons/ci";
 import { FaLocationDot } from "react-icons/fa6";
 const Footer = () => {
   return (
-    <footer className="w-full bg-blue-700 flex flex-col items-center justify-center py-10">
+    <footer className="w-full bg-blue-700 flex flex-col items-center justify-center py-10 mt-10">
       {/* Footer Heading */}
       <h1 className="text-white text-2xl font-semibold mb-10">Get in touch</h1>
 
